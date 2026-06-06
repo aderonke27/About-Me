@@ -4,7 +4,9 @@ I'm a Data & Business Analyst passionate about transforming data into actionable
 
 I enjoy exploring datasets, uncovering trends, and creating interactive dashboards that communicate stories clearly and impactfully.
 
-My journey started in pharmacy, where I developed a deep interest in how technology and data can make healthcare more efficient and accessible. Since then, I've built strong analytical skills through Excel, Power BI, SQL, and Python — working on projects spanning sales analytics, social media performance, crime data, and healthcare metrics.
+My journey started in pharmacy, where I developed a deep interest in how technology and data can make healthcare more efficient and accessible.
+
+Since then, I've built strong analytical skills through Excel, Power BI, SQL, and Python — working on projects spanning sales analytics, social media performance, crime data, and healthcare metrics.
 
 ## What I do:
 * Clean, analyze, and visualize data to uncover actionable business insights
